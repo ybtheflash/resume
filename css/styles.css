@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 80px;
+  background-color: #EAF6F6;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+h1 {
+  margin: 0 auto 0;
+  font-family: 'Caveat';
+  font-size: 60px;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Advent Pro', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.middle-container {
+  margin: 10px auto;
+}
+
+.profile {
+  margin-bottom: 70px;
+}
+
+.bottom-container, .contact-me {}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  right: 300px;
+  top: 50px;
+  position: absolute;
+}
+
+.prog {
+  font-family: 'Special Elite', cursive;
+  font-size: 1.5rem;
+  color: #11999E;
+  font-weight: lighter;
+  line-height: 0.5;
+}
+
+.flash {
+  width: 10%;
+  height: auto;
+  overflow: hidden;
+  border-radius: 80%;
+}
+
+.doge {
+  width: 40%;
+  height: auto;
+  float: left;
+  margin: auto 100px auto 40px;
+}
+
+.sword {
+  width: 25%;
+  height: auto;
+  float: right;
+  margin: 0px 40px auto 90px;
+}
+
+.footer-link, .btn {
+  color: #11999E;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-decoration: none;
+  font-style: oblique;
+}
+
+.skills {
+  margin: 100px auto auto auto;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 30px auto 100px;
+  text-align: left;
+  line-height: 1;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 10px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.btn {
+  background: #43f0f0;
+  background-image: -webkit-linear-gradient(top, #43f0f0, #288579);
+  background-image: -moz-linear-gradient(top, #43f0f0, #288579);
+  background-image: -ms-linear-gradient(top, #43f0f0, #288579);
+  background-image: -o-linear-gradient(top, #43f0f0, #288579);
+  background-image: linear-gradient(to bottom, #43f0f0, #288579);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 0px 1px 13px #666666;
+  -webkit-box-shadow: 0px 1px 8px #666666;
+  -moz-box-shadow: 0px 1px 8px #666666;
+  box-shadow: 0px 1px 8px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4eb5ae;
+  background-image: -webkit-linear-gradient(top, #4eb5ae, #62c4bd);
+  background-image: -moz-linear-gradient(top, #4eb5ae, #62c4bd);
+  background-image: -ms-linear-gradient(top, #4eb5ae, #62c4bd);
+  background-image: -o-linear-gradient(top, #4eb5ae, #62c4bd);
+  background-image: linear-gradient(to bottom, #4eb5ae, #62c4bd);
+  text-decoration: none;
+}
