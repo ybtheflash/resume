@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-  background-image: url('https://raw.githubusercontent.com/ybtheflash/resume/main/imgs/bg.jpg');
+  background-image: url("https://raw.githubusercontent.com/ybtheflash/resume/main/imgs/bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
