@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Marck+Script&display=swap');
+body {
+  background-image: url("https://raw.githubusercontent.com/ybtheflash/resume/main/imgs/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 a{
  text-decoration: none;
  color: inherit;
@@ -7,12 +14,6 @@ html, body {
   height: 100%;
 }
 
-body {
-  background-image: url("https://raw.githubusercontent.com/ybtheflash/resume/main/imgs/bg.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 html, body, h1 {
   padding: 0;
   margin: 0;
